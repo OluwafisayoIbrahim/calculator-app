@@ -2,7 +2,7 @@
 
 This is a simple calculator application built using React. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-(![image](https://github.com/OluwafisayoIbrahim/calculator-app/assets/78263397/50a1dd83-4aae-4c0e-81be-6494fbb9a9ed)
+![image](https://github.com/OluwafisayoIbrahim/calculator-app/assets/78263397/50a1dd83-4aae-4c0e-81be-6494fbb9a9ed)
 
 
 ## Table of Contents
